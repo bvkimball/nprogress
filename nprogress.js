@@ -181,7 +181,7 @@
     if (!Settings.showSpinner)
       $el.find('[role="spinner"]').remove();
 
-    var parentElement = $el.find('[role="nprogress"]')[0] || document.body
+    var parentElement = $el.find('[role="nprogress"]')[0] || document.body;
 
     $el.appendTo(parentElement);
 
