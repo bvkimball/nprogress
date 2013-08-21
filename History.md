@@ -1,3 +1,10 @@
+v0.1.3 -- August 21, 2013
+--------------------------
+
+Minor update.
+
+ * Add support for defining a parent element for the progress bar.
+
 v0.1.2 -- August 21, 2013
 --------------------------
 
