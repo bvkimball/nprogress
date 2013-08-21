@@ -12,7 +12,7 @@
 })(function($) {
   var NProgress = {};
 
-  NProgress.version = '0.1.2';
+  NProgress.version = '0.1.4';
 
   var Settings = NProgress.settings = {
     minimum: 0.08,
